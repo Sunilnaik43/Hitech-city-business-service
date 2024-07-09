@@ -1,4 +1,11 @@
 .list-group-item{
     margin-top: 1%;
     margin-bottom: 1%;
+    
 }
+
+.dropdown-menu{
+    height: 140px;
+    overflow-y: scroll;
+}
+
